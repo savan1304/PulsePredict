@@ -19,7 +19,7 @@ The objective of this project is to construct a predictive model to assess the l
 - **Oldpeak**: ST depression induced by exercise relative to rest *(Numerical)*
 
 The dependent variable, **output**, indicates the likelihood of a heart attack (0 = less chance, 1 = more chance).
-
+The dataset comprises 303 entries with predictions based on various factors
 ---
 
 ## Tasks Performed
